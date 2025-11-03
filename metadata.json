@@ -1,0 +1,5 @@
+{
+  "name": "TUH SST Bill Scrutiny AI Agent",
+  "description": "An AI-powered agent for automatic scrutiny and analysis of SST Bills based on uploaded guidelines and rate lists. It performs end-to-end automated bill verification of medical claims, applies rules for various billing categories, and generates detailed deduction summary reports.",
+  "requestFramePermissions": []
+}
